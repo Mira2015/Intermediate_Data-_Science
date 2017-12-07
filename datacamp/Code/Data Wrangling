@@ -1,0 +1,8 @@
+1. Introduction and flat files
+learn how to import data into Python from all types of flat files, a simple and prevalent form of data storage. 
+
+2.Importing data from other file types 
+learn how to import data into Python from a wide array of important file types. File types such as pickled files, Excel spreadsheets, SAS and Stata files, HDF5 files, a file type for storing large quantities of numerical data, and MATLAB files. 
+
+3.Working with relational databases in Python
+learn how to extract meaningful data from relational databases, an essential element of any data scientist's toolkit. You will be learning about the relational model, creating SQL queries, filtering and ordering your SQL records, and advanced querying by JOINing database tables. 
