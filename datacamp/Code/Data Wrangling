@@ -6,3 +6,21 @@ learn how to import data into Python from a wide array of important file types. 
 
 3.Working with relational databases in Python
 learn how to extract meaningful data from relational databases, an essential element of any data scientist's toolkit. You will be learning about the relational model, creating SQL queries, filtering and ordering your SQL records, and advanced querying by JOINing database tables. 
+
+
+
+Workflow of SQL
+querying
+
+● Import packages and functions
+
+● Create the database engine
+
+● Connect to the engine
+
+● Query the database
+
+● Save query results to a DataFrame
+
+● Close the connection
+
