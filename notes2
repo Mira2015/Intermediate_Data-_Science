@@ -1,8 +1,0 @@
-1.	I went through 3 Cryptocurrency lists, and there are few companies that overlap. After ruling out the companies that only accept Cryptocurrencies, I found out there are 10 Cryptocurrency company names appearing in our txn table.  (Oct txn table) 
-Here are the 10 companies I identified: 
-
-2.	I took your suggestion and broadened my scope by using sor_tran_type to filter the txn and just got ballpart number of each company’s txn amt and txn cnt. 
-
-I put all details in the excel file for you reference. 
-
-Additionally, I can tune the numbers on Monday, just let me know what will be most logical way to filter the txn for your needs. Thanks
