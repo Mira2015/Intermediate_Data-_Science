@@ -4,4 +4,4 @@
 
 Prepare for my Data Science career from BA to DS. Learning by doing. 
 
-![alt text](/Users/mirabooboo/Desktop/profile2.png)
+![alt text](https://github.com/Mira2015/preparation-/blob/master/profile2.png)
