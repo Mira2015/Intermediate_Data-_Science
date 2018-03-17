@@ -5,4 +5,4 @@
 Prepare for my Data Science career from BA to DS. Learning by doing. 
 
 ![alt text](https://drive.google.com/file/d/1jpUpxRGDdgVOJCb70_TihFEVBBAQ5elI/view?usp=sharing)
-![alt text](profile2.png)
+![alt text](/Users/mirabooboo/Desktop/profile2.png)
